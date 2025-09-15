@@ -1,0 +1,24 @@
+---
+title: "MD/DEFile200"
+author: "Mallory Davis"
+format: html
+editor: visual
+---
+
+Worksheet 1
+
+```{r}
+# Function to calculate the area of a circle
+area_of_circle <- function(radius) {
+  area <- pi * radius^2
+  return(area)
+}
+radius <- 5 # from the example
+circle_area <- area_of_circle(radius)
+cat("The area of the circle with radius", radius, "is", circle_area, "\n")
+
+```
+
+## ![](images/clipboard-72126728.png)
+
+This EpiTriad shows the relationships between the environment, host and pathogen. The EpiTriad is the best understanding of disease ecology.
