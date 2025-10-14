@@ -50,7 +50,7 @@ Jan’s research focused on an elk herd housed in an exclosure. The herd size is
 RE: red eyes; OD: ocular discharge; NAD: no abnormality detected
 
 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-|----|----|----|----|----|----|----|----|----|----|----|----|----|----|----|----|----|
+|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|
 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 |  | Elk id |  | 06/10/25 |  | 06/11/25 |  | 06/12/25 |  | 06/13/25 |  | 06/14/25 |  | 06/15/25 |  | 06/16/25 |  |
 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
@@ -102,3 +102,7 @@ Show your work.
 4\) On which day is the incidence lowest?
 
 **Answer:** 6/15 and 6/16 because they are both at zero
+
+**Lab Report 1 (10-15-25)**
+
+In this lab we looked at and discussed ticks. I am going to focus on the final tick we observed, which was a lone star tick. We looked for the four identifying/life stage methods. The first method we observed was the number of legs. The tick observed had 8 legs, which means it is an adult tick/nymph. Next we observed if there was an obvious genital pore, this was present. Next we observed for a conscutum, once again was present as well as having a posterior anal groove. This showed us that the lone star tick we were observing is a male. In the lab we saw that the tick had a hard, shiny shell. This was very interesting to view and see the two differences between the ticks and the reasoning why.
