@@ -106,3 +106,29 @@ Show your work.
 **Lab Report 1 (10-15-25)**
 
 In this lab we looked at and discussed ticks. I am going to focus on the final tick we observed, which was a lone star tick. We looked for the four identifying/life stage methods. The first method we observed was the number of legs. The tick observed had 8 legs, which means it is an adult tick/nymph. Next we observed if there was an obvious genital pore, this was present. Next we observed for a conscutum, once again was present as well as having a posterior anal groove. This showed us that the lone star tick we were observing is a male. In the lab we saw that the tick had a hard, shiny shell. This was very interesting to view and see the two differences between the ticks and the reasoning why.
+
+**Test Corrections (10-17-25)**
+
+Question 4.
+
+a\. Calculate the average recovery rate (y) for Measles. The average infectious period for Measles is 8 days.
+
+**Answer:** 0.125 per day
+
+b\. Calculate the average recovery rate (y) for Rotavirus gastroenteritis. The infectious period for Rotavirus gastroenteritis is 1-3 weeks, average of two weeks.
+
+**Answer:** 0.071 per day
+
+c\. The R0 for Measles is estimated at 15 and 17 for Rotavirus. Calculate both B for both diseases.
+
+**Answer: Measles:** 1.875 per day **Rotavirus:** 1.214 per day
+
+d\. Calculate Reff for a Measles outbreak in a population with 80% Measles vaccination coverage.
+
+**Answer:** 3.0
+
+Question 7.
+
+In 2015, a mass die-off of Saiga antelope occurred in Kazakhstan, resulting in the deaths of over 200,000 animals within a short period. Briefly describe the proximate cause of this extraordinary mortality event and explain how it led to such large-scale deaths. What measures could be implemented to prevent similar mortality events in the future? Finally, discuss broader conservation strategies that could help safeguard Saiga antelopes from extension due to disease outbreaks.
+
+**Answer:** The proximate cause of this mass die-off is a type B infection- Pasteurella multocida. While usually a harmless bacteria- the weather during this time was also extremely warm and humid- which is a breeding ground for bacteria. This caused the bacteria to multiply quickly. Antelope are herd animals, so there are many around at a time. This was a quick and easy way for the disease out spread within the herd. It was difficult for herd immunity to take effect, because the result in this disease was death, so they were unable to build an immunity to it. In order to prevent similar events, there must be habitat management, for example, limiting human interactions or outside stress-enhancing scenarios. We also need to enhance the use of disease surveillance. This would result in a monitoring of the antelopes and the environment they are surrounding themselves in. Broader conservation strategies would include helping maintain the population by either captive breeding or having multiple separate herds to help the growth of population.
