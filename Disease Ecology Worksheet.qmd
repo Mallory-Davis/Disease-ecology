@@ -132,3 +132,43 @@ Question 7.
 In 2015, a mass die-off of Saiga antelope occurred in Kazakhstan, resulting in the deaths of over 200,000 animals within a short period. Briefly describe the proximate cause of this extraordinary mortality event and explain how it led to such large-scale deaths. What measures could be implemented to prevent similar mortality events in the future? Finally, discuss broader conservation strategies that could help safeguard Saiga antelopes from extension due to disease outbreaks.
 
 **Answer:** The proximate cause of this mass die-off is a type B infection- Pasteurella multocida. While usually a harmless bacteria- the weather during this time was also extremely warm and humid- which is a breeding ground for bacteria. This caused the bacteria to multiply quickly. Antelope are herd animals, so there are many around at a time. This was a quick and easy way for the disease out spread within the herd. It was difficult for herd immunity to take effect, because the result in this disease was death, so they were unable to build an immunity to it. In order to prevent similar events, there must be habitat management, for example, limiting human interactions or outside stress-enhancing scenarios. We also need to enhance the use of disease surveillance. This would result in a monitoring of the antelopes and the environment they are surrounding themselves in. Broader conservation strategies would include helping maintain the population by either captive breeding or having multiple separate herds to help the growth of population.
+
+Question 10.
+
+Steve studies a population of the Suwanee Alligator Snapping turtle in Florida. He has been conducting a mark-recapture study of this population since 2010. Since 2015, he has documented cases of cutaneous fibroma in this population. The following data collected by Steve:
+
+Turtles without visible fibroma are considered susceptible to the disease.
+
+a\. Which year has the highest incidence of turtle fibroma? Make sure you write appropriate unit for the incidence value. Show your work.
+
+**Answer:**
+
+2015: 4/133- 3.01
+
+2016: 5/125- 4.00
+
+2017: 8/112- 7.14
+
+2018: 4/145- 2.76
+
+2019: 2/136- 1.47
+
+Highest Incidence: 2017, 7.14 (0.0714) new cases per 100 turtles per year.
+
+b\. When is prevalence lowest? When is prevalence highest? Write the unit for prevalence if applicable.
+
+**Answer:**
+
+2015: 4/133- 3.01%
+
+2016: 7/125- 5.60%
+
+2017: 12/112- 10.71%
+
+2018: 9/145- 6.21%
+
+2019: 6/136- 4.41%
+
+Lowest: 2015- 3.01% cases per 100 turtles
+
+Highest: 2017- 10.71% cases per 100 turtles
