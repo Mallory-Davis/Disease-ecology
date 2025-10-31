@@ -50,7 +50,7 @@ Jan’s research focused on an elk herd housed in an exclosure. The herd size is
 RE: red eyes; OD: ocular discharge; NAD: no abnormality detected
 
 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|
+|----|----|----|----|----|----|----|----|----|----|----|----|----|----|----|----|----|
 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 |  | Elk id |  | 06/10/25 |  | 06/11/25 |  | 06/12/25 |  | 06/13/25 |  | 06/14/25 |  | 06/15/25 |  | 06/16/25 |  |
 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
@@ -204,3 +204,19 @@ Which of the following statements about MERS-CoV are correct? *(If it is incorre
 5.  The epidemic curve indicates this is a point source outbreak. (2 points)
 
     **Answer:** This is incorrect because this outbreak is over multiple years, unlike a point source outbreak. A point source outbreak is an outbreak over a very short period of time.
+
+**Worksheet 5 (11-3-25)**
+
+**Marburg Virus Outbreak, Rwanda 2024** The first person to become infected in the current Marburg virus outbreak in Rwanda probably contracted the disease during a visit to a cave with Egyptian rousette bats/fruit bats that are known reservoir of Marburg virus. As of 19 December 2024, 66 cases of Marburg virus infection were documented, and most of the people infected were health care workers, mainly those who worked in intensive care units.
+
+1.  Using the community epidemiology framework developed by Fenton and Pedersen, would you classify this Marburg virus outbreak as a spillover event or an emerging infectious disease? Justify your classification.
+
+**Answer:** This would be a spillover event because the first case(s) were known to have come from the Egyptian Rousette bats. These bats were the known reservoir of this virus. Then, once this virus came into contact with the humans- especially the one's who were healthcare worker, which shows that it transmits with close contact/interaction.
+
+2.  What measures could be implemented to reduce the risk of transmission in both community and healthcare settings?
+
+**Answer:**
+
+Communtiy measures that could be implemented include wildlife awareness. This would allow for people to understand the dangers of contact with bats (and other wildlife animals) and how to properly handle or not handle them. This awareness would also need to discuss the diseases said animals could carry and transmit to humans.
+
+Healthcare measures that could be implemented would include protective clothing/equipment and isolation. This would protect the healthcare workers and the human with the disease. Healthcare workers would need to wear gloves, shoe coverings, hair coverings and a jacket/coat of some sort that would get resterilized in between patients. Isolation of patients would help lower the risk of infection for not only healthcare workers but other patients/visitors in the hospital. If properly isolated, the spread of the disease would be very small.
