@@ -50,7 +50,7 @@ Jan’s research focused on an elk herd housed in an exclosure. The herd size is
 RE: red eyes; OD: ocular discharge; NAD: no abnormality detected
 
 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-|----|----|----|----|----|----|----|----|----|----|----|----|----|----|----|----|----|
+|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|
 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 |  | Elk id |  | 06/10/25 |  | 06/11/25 |  | 06/12/25 |  | 06/13/25 |  | 06/14/25 |  | 06/15/25 |  | 06/16/25 |  |
 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
@@ -220,3 +220,23 @@ Which of the following statements about MERS-CoV are correct? *(If it is incorre
 Communtiy measures that could be implemented include wildlife awareness. This would allow for people to understand the dangers of contact with bats (and other wildlife animals) and how to properly handle or not handle them. This awareness would also need to discuss the diseases said animals could carry and transmit to humans.
 
 Healthcare measures that could be implemented would include protective clothing/equipment and isolation. This would protect the healthcare workers and the human with the disease. Healthcare workers would need to wear gloves, shoe coverings, hair coverings and a jacket/coat of some sort that would get resterilized in between patients. Isolation of patients would help lower the risk of infection for not only healthcare workers but other patients/visitors in the hospital. If properly isolated, the spread of the disease would be very small.
+
+**Worksheet 6 (11-10-25)**
+
+**Pond 1**
+
+Prevalence: 30%
+
+95% Cl: 14-52.5%
+
+**Pond 2**
+
+Prevalence: 6.7%
+
+95% Cl: 0.3-30.2%
+
+**Overall**
+
+Fisher's exact test p-value: 0.1987
+
+**Interpretation**: The infection rate of Vertico is higher in pond 1 than it is in pond 2. Our p-value is 0.1987 which is greater than 0.05. This data shows that the prevalence difference is not significant based on a 0.05 level.
