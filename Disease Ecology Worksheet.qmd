@@ -240,3 +240,17 @@ Prevalence: 6.7%
 Fisher's exact test p-value: 0.1987
 
 **Interpretation**: The infection rate of Vertico is higher in pond 1 than it is in pond 2. Our p-value is 0.1987 which is greater than 0.05. This data shows that the prevalence difference is not significant based on a 0.05 level.
+
+**Worksheet 7 (11-17-25)**
+
+1.  Nipah virus ecology varies across regions, resulting in distinct patterns of transmission in places like Malaysia and Bangladesh. Describe how the modes of transmission differ between these two regions and explain how these differences influence the preventive measures recommended in each setting.
+
+**Answer:** In Malaysia the main mode of transmission is from fruit bats contaminating pig enclosures. This makes human to human transmission low due to having to have close contact with infected pigs. Not everyone owns or is near pig farms, so it is hard to have human to human transmission, and quarantine an infected human. To take preventative measures, Malaysia can implement biosecurity measures on pig farms. This could mean culling infected pigs, separating contaminated ones, and keeping bats out of the area as much as possible. In Bangladesh, the main mode of transmission is contaminated raw date palm sap with saliva or urine from bats. This makes human to human transmission higher because it leads to more infections through respiratory secretions. In Balngladesh a preventative measure taken could be blocking bats from contaminating the collection pots. This could be done by having a cover around/over these pots.
+
+2.  Avian reoviruses (ARV) can be transmitted through multiple routes. Describe the different transmission routes of ARV and explain which environmental factors favor its transmission. What pathogen characteristics support one of these transmission routes? Finally, provide an example of a wild bird disease caused by ARV and briefly describe its impact on the affected population.
+
+    **Answer:** ARV has two transmission routes-Horizontal and Vertical. Horizontal transmission routes include Fecal/oral spread or contaminated litter, water or feed. Vertical transmission includes infected breeder hens laying an egg (which makes the egg contaminated). Environmental factors include unclean litter that is contaminated, high bird density, or a humid hen house. This virus can survive outside the natural reservoir (it is very hardy), meaning it can live and survive in dirty litter. This would support the fecal-oral route, which ARV strives in. Tenosynovitis is caused by ARV. This disease is mostly seem in wild turkeys. It causes swollen joints and less mobility. This causes an impact in wild turkey population due to a decreased survival rate and struggles for foraging.
+
+3.  Langya henipavirus (LayV) is an emerging zoonotic virus first identified in China. Describe the likely reservoir and transmission route of Langya virus. Why is LayV classified as a spillover and not a potential EID?
+
+    **Answer:** The reservoir for LayV is likely shrews. The modes of transmission include direct contact, exposure to contaminated feces or urine or even from an infected animal bite. This is only considered a spillover because there is no known human to human transmission and no geographic expansion.
