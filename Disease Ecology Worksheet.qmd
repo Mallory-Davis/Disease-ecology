@@ -254,3 +254,9 @@ Fisher's exact test p-value: 0.1987
 3.  Langya henipavirus (LayV) is an emerging zoonotic virus first identified in China. Describe the likely reservoir and transmission route of Langya virus. Why is LayV classified as a spillover and not a potential EID?
 
     **Answer:** The reservoir for LayV is likely shrews. The modes of transmission include direct contact, exposure to contaminated feces or urine or even from an infected animal bite. This is only considered a spillover because there is no known human to human transmission and no geographic expansion.
+
+**Worksheet 8 (11-19-25)**
+
+Raccoon Roundworm (Baylisascaris procyonis) data interpretation
+
+**Answer:** In the North, 27 raccoon's were infected with roundworms and 16 were uninfected, while in the South, 14 were infected and 35 were uninfected. This represents a clear difference in infection rates between the two regions. The North had a prevalence of 62.8%, whereas the South had a much lower prevalence of 28.6%. This suggests that raccoon's in the South experience lower exposure to roundworms, greater resistance, or environmental conditions that are less suitable for the parasite’s transmission. The north on the other hand might have a lower resistance, higher exposure or an environment that these parasites thrive in, causing the prevalence rate to be much higher.
