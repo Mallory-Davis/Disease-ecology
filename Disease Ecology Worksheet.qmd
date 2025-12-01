@@ -5,7 +5,7 @@ format: html
 editor: visual
 ---
 
-**Worksheet 1**
+**Worksheet 1 (8/29/25)**
 
 ```{r}
 # Function to calculate the area of a circle
@@ -22,6 +22,8 @@ cat("The area of the circle with radius", radius, "is", circle_area, "\n")
 ## ![](images/clipboard-72126728.png)
 
 This EpiTriad shows the relationships between the environment, host and pathogen. The EpiTriad is the best understanding of disease ecology.
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 **Worksheet 2 9/22/25**
 
@@ -43,49 +45,11 @@ b\) 99% confidence in detecting a disease at 2% prevalence in a large population
 
 **Answer**: \<1%
 
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
 **Worksheet 3 10/7/25**
 
-Jan’s research focused on an elk herd housed in an exclosure. The herd size is 56. Her data shows that an outbreak of conjunctivitis started on 10^th^ June 2025. She meticulously documented the progress of the outbreak in this herd. Her observations of affected elk are as follows:
-
-RE: red eyes; OD: ocular discharge; NAD: no abnormality detected
-
-|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|
-|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-|  | Elk id |  | 06/10/25 |  | 06/11/25 |  | 06/12/25 |  | 06/13/25 |  | 06/14/25 |  | 06/15/25 |  | 06/16/25 |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-|  | 2320B |  | NAD |  | NAD |  | RE,OD |  | OD |  | OD |  | OD |  | OD |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-|  | 2355B |  | NAD |  | RE |  | RE,OD |  | RE,OD |  | NAD |  | NAD |  | NAD |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-|  | 2565B |  | NAD |  | RE |  | RE |  | OD |  | OD |  | NAD |  | NAD |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-|  | 2763B |  | NAD |  | NAD |  | RE |  | OD |  | OD |  | NAD |  | NAD |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-|  | 2772B |  | NAD |  | NAD |  | RE |  | RE |  | RE, OD |  | NAD |  | NAD |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-|  | 1889B |  | RE |  | RE, OD |  | RE, OD |  | OD |  | NAD |  | NAD |  | NAD |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-|  | 1766B |  | NAD |  | NAD |  | NAD |  | NAD |  | RE, OD |  | OD |  | OD |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-|  | 1322B |  | NAD |  | NAD |  | NAD |  | RE, OD |  | RE, OD |  | OD |  | OD |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-|  | 4533B |  | NAD |  | NAD |  | NAD |  | RE, OD |  | OD |  | OD |  | OD |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-|  | 4597B |  | NAD |  | NAD |  | RE |  | RE, OD |  | RE, OD |  | OD |  | NAD |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-|  | 4599B |  | NAD |  | NAD |  | NAD |  | NAD |  | RE, OD |  | RE, OD |  | OD |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-|  | 5666B |  | NAD |  | OD |  | OD |  | OD |  | NAD |  | NAD |  | NAD |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-|  | 5971B |  | NAD |  | RE |  | RE, OD |  | OD |  | OD |  | OD |  | NAD |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-|  | 6001B |  | NAD |  | NAD |  | RE |  | RE, OD |  | OD |  | OD |  | NAD |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-
-Recovered elk are immune (not susceptible) to conjunctivitis for 6 months. There were no infected elk in the herd after 06/16/25.
-
-Show your work.
+Jan’s research focused on an elk herd housed in an exclosure. The herd size is 56. Her data shows that an outbreak of conjunctivitis started on 10^th^ June 2025. She meticulously documented the progress of the outbreak in this herd. Her observations of affected elk are as follows: RE: red eyes; OD: ocular discharge; NAD: no abnormality detected.
 
 1\) Find incidence on day 06/12/25, 06/14/25 and 06/15/25. Write the unit for incidence.
 
@@ -103,77 +67,9 @@ Show your work.
 
 **Answer:** 6/15 and 6/16 because they are both at zero
 
-**Lab Report 1 (10-15-25)**
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-In this lab we looked at and discussed ticks. I am going to focus on the final tick we observed, which was a lone star tick. We looked for the four identifying/life stage methods. The first method we observed was the number of legs. The tick observed had 8 legs, which means it is an adult tick/nymph. Next we observed if there was an obvious genital pore, this was present. Next we observed for a conscutum, once again was present as well as having a posterior anal groove. This showed us that the lone star tick we were observing is a male. In the lab we saw that the tick had a hard, shiny shell. This was very interesting to view and see the two differences between the ticks and the reasoning why.
-
-**Test Corrections (10-17-25)**
-
-Question 4.
-
-a\. Calculate the average recovery rate (y) for Measles. The average infectious period for Measles is 8 days.
-
-**Answer:** 0.125 per day
-
-b\. Calculate the average recovery rate (y) for Rotavirus gastroenteritis. The infectious period for Rotavirus gastroenteritis is 1-3 weeks, average of two weeks.
-
-**Answer:** 0.071 per day
-
-c\. The R0 for Measles is estimated at 15 and 17 for Rotavirus. Calculate both B for both diseases.
-
-**Answer: Measles:** 1.875 per day **Rotavirus:** 1.214 per day
-
-d\. Calculate Reff for a Measles outbreak in a population with 80% Measles vaccination coverage.
-
-**Answer:** 3.0
-
-Question 7.
-
-In 2015, a mass die-off of Saiga antelope occurred in Kazakhstan, resulting in the deaths of over 200,000 animals within a short period. Briefly describe the proximate cause of this extraordinary mortality event and explain how it led to such large-scale deaths. What measures could be implemented to prevent similar mortality events in the future? Finally, discuss broader conservation strategies that could help safeguard Saiga antelopes from extension due to disease outbreaks.
-
-**Answer:** The proximate cause of this mass die-off is a type B infection- Pasteurella multocida. While usually a harmless bacteria- the weather during this time was also extremely warm and humid- which is a breeding ground for bacteria. This caused the bacteria to multiply quickly. Antelope are herd animals, so there are many around at a time. This was a quick and easy way for the disease out spread within the herd. It was difficult for herd immunity to take effect, because the result in this disease was death, so they were unable to build an immunity to it. In order to prevent similar events, there must be habitat management, for example, limiting human interactions or outside stress-enhancing scenarios. We also need to enhance the use of disease surveillance. This would result in a monitoring of the antelopes and the environment they are surrounding themselves in. Broader conservation strategies would include helping maintain the population by either captive breeding or having multiple separate herds to help the growth of population.
-
-Question 10.
-
-Steve studies a population of the Suwanee Alligator Snapping turtle in Florida. He has been conducting a mark-recapture study of this population since 2010. Since 2015, he has documented cases of cutaneous fibroma in this population. The following data collected by Steve:
-
-Turtles without visible fibroma are considered susceptible to the disease.
-
-a\. Which year has the highest incidence of turtle fibroma? Make sure you write appropriate unit for the incidence value. Show your work.
-
-**Answer:**
-
-2015: 4/133- 3.01
-
-2016: 5/125- 4.00
-
-2017: 8/112- 7.14
-
-2018: 4/145- 2.76
-
-2019: 2/136- 1.47
-
-Highest Incidence: 2017, 7.14 (0.0714) new cases per 100 turtles per year.
-
-b\. When is prevalence lowest? When is prevalence highest? Write the unit for prevalence if applicable.
-
-**Answer:**
-
-2015: 4/133- 3.01%
-
-2016: 7/125- 5.60%
-
-2017: 12/112- 10.71%
-
-2018: 9/145- 6.21%
-
-2019: 6/136- 4.41%
-
-Lowest: 2015- 3.01% cases per 100 turtles
-
-Highest: 2017- 10.71% cases per 100 turtles
-
-**Worksheet 4 (10-23-25)**
+**Worksheet 4 (10/23/25)**
 
 **MERS-CoV**
 
@@ -205,47 +101,53 @@ Which of the following statements about MERS-CoV are correct? *(If it is incorre
 
     **Answer:** This is incorrect because this outbreak is over multiple years, unlike a point source outbreak. A point source outbreak is an outbreak over a very short period of time.
 
-**Worksheet 5 (11-3-25)**
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+**Worksheet 5 (11/3/25)**
 
 **Marburg Virus Outbreak, Rwanda 2024** The first person to become infected in the current Marburg virus outbreak in Rwanda probably contracted the disease during a visit to a cave with Egyptian rousette bats/fruit bats that are known reservoir of Marburg virus. As of 19 December 2024, 66 cases of Marburg virus infection were documented, and most of the people infected were health care workers, mainly those who worked in intensive care units.
 
 1.  Using the community epidemiology framework developed by Fenton and Pedersen, would you classify this Marburg virus outbreak as a spillover event or an emerging infectious disease? Justify your classification.
 
-**Answer:** This would be a spillover event because the first case(s) were known to have come from the Egyptian Rousette bats. These bats were the known reservoir of this virus. Then, once this virus came into contact with the humans- especially the one's who were healthcare worker, which shows that it transmits with close contact/interaction.
+    **Answer:** This would be a spillover event because the first case(s) were known to have come from the Egyptian Rousette bats. These bats were the known reservoir of this virus. Then, once this virus came into contact with the humans- especially the one's who were healthcare worker, which shows that it transmits with close contact/interaction.
+
+<!-- -->
 
 2.  What measures could be implemented to reduce the risk of transmission in both community and healthcare settings?
 
-**Answer:**
+    **Answer:** Communtiy measures that could be implemented include wildlife awareness. This would allow for people to understand the dangers of contact with bats (and other wildlife animals) and how to properly handle or not handle them. This awareness would also need to discuss the diseases said animals could carry and transmit to humans.
 
-Communtiy measures that could be implemented include wildlife awareness. This would allow for people to understand the dangers of contact with bats (and other wildlife animals) and how to properly handle or not handle them. This awareness would also need to discuss the diseases said animals could carry and transmit to humans.
+    Healthcare measures that could be implemented would include protective clothing/equipment and isolation. This would protect the healthcare workers and the human with the disease. Healthcare workers would need to wear gloves, shoe coverings, hair coverings and a jacket/coat of some sort that would get resterilized in between patients. Isolation of patients would help lower the risk of infection for not only healthcare workers but other patients/visitors in the hospital. If properly isolated, the spread of the disease would be very small.
 
-Healthcare measures that could be implemented would include protective clothing/equipment and isolation. This would protect the healthcare workers and the human with the disease. Healthcare workers would need to wear gloves, shoe coverings, hair coverings and a jacket/coat of some sort that would get resterilized in between patients. Isolation of patients would help lower the risk of infection for not only healthcare workers but other patients/visitors in the hospital. If properly isolated, the spread of the disease would be very small.
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-**Worksheet 6 (11-10-25)**
+**Worksheet 6 (11/10/25)**
 
 **Pond 1**
 
-Prevalence: 30%
+-   Prevalence: 30%
 
-95% Cl: 14-52.5%
+-   95% Cl: 14-52.5%
 
 **Pond 2**
 
-Prevalence: 6.7%
+-   Prevalence: 6.7%
 
-95% Cl: 0.3-30.2%
+-   95% Cl: 0.3-30.2%
 
 **Overall**
 
-Fisher's exact test p-value: 0.1987
+-   Fisher's exact test p-value: 0.1987
 
 **Interpretation**: The infection rate of Vertico is higher in pond 1 than it is in pond 2. Our p-value is 0.1987 which is greater than 0.05. This data shows that the prevalence difference is not significant based on a 0.05 level.
 
-**Worksheet 7 (11-17-25)**
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+**Worksheet 7 (11/17/25)**
 
 1.  Nipah virus ecology varies across regions, resulting in distinct patterns of transmission in places like Malaysia and Bangladesh. Describe how the modes of transmission differ between these two regions and explain how these differences influence the preventive measures recommended in each setting.
 
-**Answer:** In Malaysia the main mode of transmission is from fruit bats contaminating pig enclosures. This makes human to human transmission low due to having to have close contact with infected pigs. Not everyone owns or is near pig farms, so it is hard to have human to human transmission, and quarantine an infected human. To take preventative measures, Malaysia can implement biosecurity measures on pig farms. This could mean culling infected pigs, separating contaminated ones, and keeping bats out of the area as much as possible. In Bangladesh, the main mode of transmission is contaminated raw date palm sap with saliva or urine from bats. This makes human to human transmission higher because it leads to more infections through respiratory secretions. In Balngladesh a preventative measure taken could be blocking bats from contaminating the collection pots. This could be done by having a cover around/over these pots.
+    **Answer:** In Malaysia the main mode of transmission is from fruit bats contaminating pig enclosures. This makes human to human transmission low due to having to have close contact with infected pigs. Not everyone owns or is near pig farms, so it is hard to have human to human transmission, and quarantine an infected human. To take preventative measures, Malaysia can implement biosecurity measures on pig farms. This could mean culling infected pigs, separating contaminated ones, and keeping bats out of the area as much as possible. In Bangladesh, the main mode of transmission is contaminated raw date palm sap with saliva or urine from bats. This makes human to human transmission higher because it leads to more infections through respiratory secretions. In Balngladesh a preventative measure taken could be blocking bats from contaminating the collection pots. This could be done by having a cover around/over these pots.
 
 2.  Avian reoviruses (ARV) can be transmitted through multiple routes. Describe the different transmission routes of ARV and explain which environmental factors favor its transmission. What pathogen characteristics support one of these transmission routes? Finally, provide an example of a wild bird disease caused by ARV and briefly describe its impact on the affected population.
 
@@ -255,13 +157,17 @@ Fisher's exact test p-value: 0.1987
 
     **Answer:** The reservoir for LayV is likely shrews. The modes of transmission include direct contact, exposure to contaminated feces or urine or even from an infected animal bite. This is only considered a spillover because there is no known human to human transmission and no geographic expansion.
 
-**Worksheet 8 (11-19-25)**
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+**Worksheet 8 (11/19/25)**
 
 Raccoon Roundworm (Baylisascaris procyonis) data interpretation
 
 **Answer:** In the North, 27 raccoon's were infected with roundworms and 16 were uninfected, while in the South, 14 were infected and 35 were uninfected. This represents a clear difference in infection rates between the two regions. The North had a prevalence of 62.8%, whereas the South had a much lower prevalence of 28.6%. This suggests that raccoon's in the South experience lower exposure to roundworms, greater resistance, or environmental conditions that are less suitable for the parasite’s transmission. The north on the other hand might have a lower resistance, higher exposure or an environment that these parasites thrive in, causing the prevalence rate to be much higher.
 
-**Worksheet 9 (11-25-25)**
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+**Worksheet 9 (11/25/25)**
 
 1.  In 2024, a multistate Salmonella outbreak was linked to backyard poultry flocks in the United States. What specific human behaviors contributed to the zoonotic spread of Salmonella? In your response, identify at least three practices by backyard poultry owners that increased the risk of Salmonella transmission, and briefly explain why these behaviors facilitated human infection.
 
@@ -270,21 +176,23 @@ Raccoon Roundworm (Baylisascaris procyonis) data interpretation
     Salmonella survives for long periods in organic material like litter and soil. Poor and infrequent cleaning increases environmental contamination and raises the risk of human exposure during routine care.\
     Backyard flocks are often accessible to wild birds and rodents, which can introduce or spread Salmonella. Humans handling contaminated surfaces without proper equipment leads to a greater risk of infection.
 
-2.  Tall fescue grass is commonly infected with a fungal endophyte (Epichloë coenophiala) that produces ergot alkaloids associated with fescue toxicosis in grazing livestock.
+    1.  Tall fescue grass is commonly infected with a fungal endophyte (Epichloë coenophiala) that produces ergot alkaloids associated with fescue toxicosis in grazing livestock.
 
-    a.  What advantage does Tall fescue gain from being infected with a fungal endophyte?
+        a.  What advantage does Tall fescue gain from being infected with a fungal endophyte?
 
-    **Answer:** The fungal endophyte provides tall fescue with greater stress tolerance, including: enhanced drought resistance, improved heat tolerance, greater resistance to insect herbivory (alkaloids deter insects), increased persistence and competitiveness in overgrazed or nutrient-poor soils. These benefits help tall fescue dominate pastures and survive harsh environmental conditions.
+        **Answer:** The fungal endophyte provides tall fescue with greater stress tolerance, including: enhanced drought resistance, improved heat tolerance, greater resistance to insect herbivory (alkaloids deter insects), increased persistence and competitiveness in overgrazed or nutrient-poor soils. These benefits help tall fescue dominate pastures and survive harsh environmental conditions.
 
-    b.  What environmental and ecological factors drive the occurrence and severity of fescue toxicosis in grazing systems?
+        b.  What environmental and ecological factors drive the occurrence and severity of fescue toxicosis in grazing systems?
 
-    **Answer:** Fescue toxicosis is incredibly durable, drought resistant and can grow rapidly, making it tolerant to overgrazing. This is why tescue toxicosis is common in the southern states, where it is warm and we often experience droughts. Due to the rapid fescue growth, it is easy for it to over take fields, making it the only grazing option for cattle.
+        **Answer:** Fescue toxicosis is incredibly durable, drought resistant and can grow rapidly, making it tolerant to overgrazing. This is why tescue toxicosis is common in the southern states, where it is warm and we often experience droughts. Due to the rapid fescue growth, it is easy for it to over take fields, making it the only grazing option for cattle.
 
-    c\. What are the key clinical signs of fescue toxicity in cattle?
+        c\. What are the key clinical signs of fescue toxicity in cattle?
 
-    **Answer:** Clinical signs are most commonly seen as weight loss, dull and discolored hair, and poor performance.
+        **Answer:** Clinical signs are most commonly seen as weight loss, dull and discolored hair, and poor performance.
 
-**Worksheet 8 (11-25-25)**
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+**Worksheet 10 (11/25/25)**
 
 1\. What are the different routes of transmission for African Swine fever? What role do\
 humans play in the spread and transmission of ASF?
