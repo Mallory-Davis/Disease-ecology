@@ -209,3 +209,174 @@ progression, and management of Chlamydia in koalas.
 threat to wild snake populations in North America. What are the key challenges associated with the surveillance and management of Snake Fungal Disease (SFD)?
 
 **Answer:** A main key challenge in management of SFD is the lack of symptoms. Snakes are usually asymptomatic at first, which once again leads to a increase risk of exposure to other snakes. While there is a test (qPRC-dna test) to determine if a snake is positive for SFD, this test frequently gives a false negatives. This is hard to control and manage what snakes are infected and diseases and which are not. Since the main transmission is through contact and shared refuge, this virus is constantly infecting other snakes.
+
+**Final Exam (12/4/25)**
+
+1.  True/False
+
+a\. Per the community–epidemiology continuum proposed by Fenton and Pedersen (2005), a disease caused by a pathogen with high between-species transmission and not within–target species transmission will be termed a spillover. 
+
+**Answer:** True
+
+b\. A viral disease that is transmitted to susceptible hosts only by vectors is infectious as well as contagious.
+
+**Answer:** False- A disease transmitted only by vectors (like mosquitoes) is infectious, but not contagious. Vector-borne pathogens require the vector for transmission; they cannot be spread host-to-host without it. An example would be Powassan disease. This is a tick borne disease that is only transmitted through an infected tick. It is not contagious through humans by any route of transmission. Other tick borne diseases that are also great examples are lyme and ehrlichiosis.
+
+c\. The eggs of Baylisascaris procyonis can be transmitted to humans by direct contact immediately after excretion by an infected raccoon. 
+
+**Answer:** False- raccoon roundworm eggs are not infectious immediately after being shed. They require 2–4 weeks (or longer) in the environment to mature enough to become infectious. So, freshly excreted eggs cannot infect humans until they mature.
+
+d\. A fungus growing on tall fescue leaves is responsible for decreased feed intake in cattle grazing on this grass, resulting in reduced weight gain and lower milk production. 
+
+**Answer:** False- The fungus on tall fescue that causes reduced feed intake and weight gain is not on the leaves—it grows inside the plant tissues (an endophyte). This endophyte that lives inside the plant produces ergot alkaloids that cause fescue toxicosis in grazing livestock.
+
+e\. Northern cardinals are considered a superspreader species for West Nile virus.  
+
+**Answer:** True
+
+2\. List the community-based interventions used for preventing dracunculiasis transmission in endemic regions. Explain how each intervention interrupts specific stages of the Guinea worm life cycle. How have these strategies evolved in recent years given the emergence of animal (particularly dog) infections? 
+
+**Answer:** Community-based interventions focus on filtering water, killing copepods, preventing water contamination, educating communities, and improving safe water access—all targeting specific life-cycle stages of D. medinensis. With the rise of dog infections, strategies have expanded to include dog tethering, safe fish-handling, dog surveillance, and targeted pond treatment, addressing both waterborne transmission and emerging food-mediated pathways.
+
+3\. Chronic wasting disease (CWD) is an emerging prion disease of cervids and one of the most significant wildlife conservation challenges in North America. What are the main obstacles wildlife agencies face in managing and controlling CWD?
+
+**Answer:** There are many challenges that make it difficult to control/manage CWD. One challenge is that there are currently no treatments or preventatives for chronic wasting disease. So when a deer becomes infected they have to live with it. This leads to another main issue of some deer being asymptomatic in the beginning. This means they are still able to shed the disease, but might not show symptoms, so we are unable to know which deer to quarantine or remove. Deer are also known to constantly move around. Since deer move often, this leads to an even bigger spread of the disease in more than one area. This leads to even more difficulty when it comes to quarantining or removing a deer. 
+
+4\. You are given data from a closed study population of 60 RFID-tagged armadillos monitored at sampling stations (no capture required). At the start of the study (December 2024) none were infected with Mycobacterium leprae. During the follow-up period, monthly assessments documented the following counts of infected animals in the population: 
+
+• March 2025: 3 infected
+
+• April 2025: 5 infected 
+
+• May 2025: 5 infected 
+
+• June 2025: 8 infected 
+
+• July 2025: 13 infected (No deaths, births, immigration, or recovery occurred during the study.) 
+
+a\. Calculate the monthly incidence of M. leprae infection. Show your calculations and state the units.  
+
+**Answer:**
+
+March- 3/60 = 0.05 = **5% per month**
+
+April- 2/57 = 0.035 = **3.5% per month**
+
+May- 0/55 = 0 = **0% per month**
+
+June- 3/55 = 0.0545 = **5.45% per month**
+
+July- 5/52 = 0.096 = **9.6% per month**
+
+b\. Which month had the highest prevalence? Which month had the lowest prevalence? Show your calculations and state the units. 
+
+**Answer:**
+
+March- 3/60 = 0.05 = **5%**
+
+April- 5/60 = 0.083 = **8.3%**
+
+May- 5/60 = 0.083 = **8.3%**
+
+June- 8/60 = 0.133 = **13.3%**
+
+July- 13/60 = 0.217 = **21.7%**
+
+**Highest prevalence- July: 21.7%**
+
+**Lowest prevalence- March: 5%**
+
+5\. A beaver carcass was found at the Gunnison River Whitewater Park, Gunnison, Colorado in October 2025. Samples collected during the postmortem examination were submitted to the Veterinary Diagnostic Lab. The lab reported that the animal was positive for Tularemia. 
+
+a\. Name the etiological agent of this disease. What subspecies of this agent causes Tularemia in aquatic animals like beavers?
+
+**Answer: Etiological agent:** Francisella tularensis
+
+ 	This subspecies is holarctica 
+
+b\. What are the different routes of transmission for this agent? 
+
+**Answer:**
+
+Vector-borne: Bites from ticks, deer flies, horseflies\
+Direct contact: Handling infected animals (especially lagomorphs, rodents, beavers)\
+Orally: Contaminated water, enviroment or food\
+Skin entry: Through cuts, abrasions, or eye contamination\
+
+c\. Describe key features/characteristics of this pathogen in the context of human health/ public health.
+
+**Answer:** Tularemia is caused by Francisella tularensis, an extremely infectious bacterium—only a small number of organisms are needed to cause disease in humans. A key feature of this pathogen is its ability to survive for long periods in the environment, including in soil, water, and animal carcasses. This combination of a very low infectious dose and strong environmental persistence makes Tularemia a significant public and human health concern, especially when infected wildlife are found near areas where people live or recreate.
+
+6\. Match the following 
+
+**Answer:**
+
+a\. Fungal pathogen of conservation concern -  5. Pseudogymnoascus destructans
+
+b\. Avian Vacuolar Myelinopathy - 4. Aetokthonotoxin  
+
+c\. Tick-transmitted viral disease -1. Powassan encephalitis 
+
+d\. Foreign Animal Disease - 6. African Swine Fever
+
+e\. Bell’s palsy, Bulls-eye rash -  3. Borrelia burgdorferi
+
+7\. Answer the following based on the lifecycle: 
+
+**Answer:**
+
+a\. The two stages of blacklegged tick that can potentially transmit Lyme disease to humans are: **Nymphs** and **Adults**. 
+
+b\. Preferred hosts of the larval stage of Ixodes scapularis are: **Small Mammals** and **birds**. 
+
+c\. Lyme disease risk posed by host-seeking nymphs of I. scapularis is greatest during **April-June/late spring through summer** (season/months) while Lyme disease risk posed by host-seeking adults is greatest during **fall** (season/months).
+
+d\. The natural reservoir and competent hosts of Borrelia burgdorferi in North America: **white footed mice (or small mammals)**. White-tailed deer are the **reproductive host** in the Lyme disease system. 
+
+8\. Georgia has a white-tailed deer population of \~ 1 million. A total of 1351 samples from hunter-harvested deer were tested for Chronic Wasting Disease in 2022. None of the samples tested positive for CWD. Using the hypergeometric distribution, Georgia DNR determines that CWD is not present above 0.2% prevalence in Georgia’s white tailed deer population. You are asked to comment on Georgia DNR’s CWD surveillance approach. In your commentary, explain the downside of using hypergeometric distribution for making decisions about wildlife disease surveillance.    
+
+**Answer:** Using the hypergeometric distribution can be useful for estimating how many samples are needed to detect a disease at a certain prevalence, but it has important limitations in wildlife disease surveillance. The hypergeometric model assumes that samples are taken randomly from the entire population and that the disease is evenly distributed. In wildlife systems, these assumptions are rarely true. The deer are not sampled randomly, the sampling depends on patterns, land access, and hunter participation. Also, CWD tends to occur in clusters. Because the hypergeometric distribution does not account for this clustering, a state could test many animals and still miss the disease if the samples come from low-risk areas. This means “zero positives” does not necessarily mean the disease is absent; it just means the sampling could have missed the places where it actually occurs.
+
+9\. Place the following diseases in appropriate quadrants in the above figure. Explain your choice of quadrants. 
+
+a\. SARS-CoV-2 
+
+**Answer:** Top right because it is a zoonotic spillover and shows other animal species infected. It also has human to human transmission so this places it high on both axes.
+
+b\. Hantavirus Pulmonary Syndrome 
+
+**Answer:** Bottom right because this disease can be spread from infected rodents to humans, but cannot be sustained in humans to human transmission. Since human to human transmission is low and animal to human is high, this places it on the bottom right axis.
+
+c\. Langya Henipavirus 
+
+**Answer:** Bottom right because it has little to no human to human transmission which places it on the bottom right quadrant.
+
+d\. Brucellosis 
+
+**Answer:** Top left because there is an animal to human transmission, but humans in this disease are dead-end hosts. Within species transmission is maintained which puts it in the top left quadrant
+
+e\. West Nile virus
+
+**Answer:** Bottom right because there is no human to human transmission, but it is maintained in bird-mosquito cycle. It is transmitted to humans by mosquito vectors. This places it on the bottom right quadrant.
+
+10\. Anisakiasis is the disease caused by infection with the stomach worm Anisakis simplex. It reaches sexual maturity and reproduces in marine mammals. In the following figure, identify the definitive host, a dead-end host, a paratenic host, and an intermediate host. Explain your answers.   
+
+**Answer:** Definitive host- Marine animals because this is where the worm develops into an adult.
+
+Dead end host- Humans because they can become infected by eating raw fish but the parasite cannot live inside of the human.
+
+Paratenic host- Fish and cephalopods because the parasite can live in them but cannot develop any further inside of these paratenic hosts.
+
+Intermediate host- Crustaceans because they develop into the L3 phase before going into marine animals, where they develop into an adult.
+
+11\. All infected hosts are diseased. Comment using appropriate examples.
+
+**Answer:** This statement is false, not all infected hosts are diseased. An example of this is Avian Reovirus. Many birds (especially chickens) may carry and shed the virus but not have any symptoms of having it. Some birds may show signs of being diseases, but not all. Another example is Chlamydia in koalas. Some koalas may never show signs of Chlamydia, but can continue to test positive and spread the illness. 
+
+12\. Klepac et al. estimated an R0 of 2.5 for the 2002 Phocine Distemper virus epidemic in Dutch harbor seals. Assuming that an effective PDV vaccine is available, what proportion of the seal population should be vaccinated to prevent a future outbreak of PDV?
+
+**Answer:** 1- 1/2.5 = 1-0.4 = 0.6 = 60% of the seal population must be vaccinated. In order to keep R effective and below 1, 60% of the seal population, but be vaccinated to prevent an outbreak.
+
+13\. What are some of the main challenges in managing wildlife diseases? Explain using relevant examples.
+
+**Answer:** One main challenge would include being able to detect diseases in wildlife. One example we talked about in class was chronic wasting disease. Some deer are asymptomatic at first but still shed and transmit the disease. This makes it difficult to detect and remove an infected deer at first since there are no signs of illness. Another key challenge is the difficulty to vaccinate and treat an illness. Treatment and vaccination can be expensive and difficult to manage. Wildlife can be difficult to handle, which can make vaccinating almost impossible. An example of this is vaccinating for Chlamydia in koalas. While there is a vaccine, it is very difficult to get this vaccine into the koalas. This vaccine is injectable, making it risky and difficult to inject into a wild patient. There is also an antibiotic therapy used to treat this infection, but it can be expensive as well as disrupting koala’s gut microfibration. Another challenge that plays along with vaccination and treatment would be the sustainability of certain viruses. Certain viruses are able to sustain and thrive in the environment (like soil or feces) and not in a host. An example of this is Baylisascaris procyonis (racoon roundworm). The raccoon roundworm is incredibly hardy and can live in almost any environment. The only known method of killing the parasite is by burning them.
